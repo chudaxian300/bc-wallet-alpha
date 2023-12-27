@@ -17,3 +17,13 @@
 2. 打开浏览器，进入管理拓展程序页面
 3. 将bc_wallet_web拖入页面
 4. 点击右上方拓展程序区并选择即可使用
+
+### 项目截图
+##### 1.账户信息页
+![38d1d92b0a8fe0c64ff07ff0dfb8bd6](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/de640030-fbd4-4b1b-b406-6fe6e924ff93)
+##### 2.转账页
+![488b3d5311bb6d188c790daa53cb71a](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/6b2df3ab-d66e-4819-86e0-69724ed48683)
+##### 3.交易记录页
+![98a40dbca581e2b411c85e270fd64b3](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/f50dcec0-6c3c-41dc-b6e1-2f0562380d44)
+##### 4.查找页
+![3f5148983136d52e89bf38928f1b8a6](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/ad5bcd77-f178-486e-a723-b0fc6981d22d)
