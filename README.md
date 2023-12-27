@@ -1,1 +1,1 @@
-# bc-wallet-beta
+# 区块链钱包(alpha)源码
