@@ -22,7 +22,7 @@
 ##### 1.账户信息页
 ![38d1d92b0a8fe0c64ff07ff0dfb8bd6](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/de640030-fbd4-4b1b-b406-6fe6e924ff93)
 ##### 2.转账页
-![488b3d5311bb6d188c790daa53cb71a](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/6b2df3ab-d66e-4819-86e0-69724ed48683)
+![64befcc90ae61b0108d166079c44597](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/64c7e4aa-da82-4264-9c07-808fd22c9664)
 ##### 3.交易记录页
 ![98a40dbca581e2b411c85e270fd64b3](https://github.com/chudaxian300/bc-wallet-alpha/assets/81302819/f50dcec0-6c3c-41dc-b6e1-2f0562380d44)
 ##### 4.查找页
